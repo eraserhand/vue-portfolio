@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;
+    src: local("Roboto"), url("/fonts/Roboto/roboto-regular-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-regular-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-blackitalic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-blackitalic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-black-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-black-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-bolditalic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-bolditalic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-bold-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-bold-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-italic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-italic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-lightitalic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-lightitalic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-mediumitalic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-mediumitalic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-light-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-light-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-medium-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-medium-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-thinitalic-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-thinitalic-webfont.woff") format("woff"),
+    url("/fonts/Roboto/roboto-thin-webfont.woff2") format("woff2"), 
+    url("/fonts/Roboto/roboto-thin-webfont.woff") format("woff");
+  }
